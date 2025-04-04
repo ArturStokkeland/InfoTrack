@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ScrapeService.Api\\ScrapeService.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HistoryService.Api\\HistoryService.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
