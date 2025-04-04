@@ -1,6 +1,6 @@
 # Infotrack
 
-This project contains a .NET Core WebApi as a backend and a Vue.js SPA as a frontend. It will scrape search engines for a user input search term, and store the results in an SQL Express server. Unfortunately I am unable to bypass Google's cookie window, I tried setting a user-agent header which helped a little. I also tried adding a cookie header as well, but it seems google has changed how they handle the cookie headers in the last year or two, and the information I found is all outdated ("consent"="yes+<code>" and "SOCS"="<code>").
+This project contains a .NET Core WebApi as a backend and a Vue.js SPA as a frontend. It will scrape search engines for a user input search term, and store the results in an SQL Express server. Unfortunately I am unable to bypass Google's cookie window, I tried setting a user-agent header which helped a little. I also tried adding a cookie header as well, but it seems google has changed how they handle the cookie headers in the last year or two, and the information I found is all outdated ('consent'='yes+<code>' and 'SOCS'='<code>').
 
 ## Frontend
 
